@@ -1,6 +1,6 @@
 ## Requisitos para o Laravel Funcionar na maquina:
 
-- Ter PHP instalado em seu dispositivo (não pode ser o php do xampp)
+- Ter PHP instalado em seu dispositivo (não pode ser o php do xampp ou laragon)
 - Habilitar o extension fileinfo do PHP para que a istalação da dependências ocorram bem, <a href="arquives/configure-php-composer.md"> Clique aqui e veja como habilitar </a>
 - Ter o Composer instalado para gerenciar as depedências do Laravel
 
