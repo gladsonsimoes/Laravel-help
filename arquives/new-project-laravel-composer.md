@@ -10,6 +10,7 @@ composer create-project laravel/laravel exemple-app
 ~~~
 Troque o nome do exemple-app para o nome do seu projeto!
 
+---
 
-#### 5 - tenha conhecimento das pastas do laravel (procure na internet o que é cada uma pasta)
+e uma sugestão : tenha conhecimento das pastas do laravel (procure na internet o que é cada uma pasta)
 
