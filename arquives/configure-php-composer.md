@@ -1,5 +1,7 @@
 ## habilitando o extension fileinfo do php.ini , para instalar as dependências do php :
 
+### Atenção!!! faça depois da instalação do composer!
+
 a. Habilitar a extensão fileinfo no arquivo php.ini:
 
 - Abra o arquivo <b> php.ini </b> localizado no windows em <b> C:\php\php.ini </b>  ou no linux <b> etc/php/<versão do php>/cli/php.ini </b> , no seu editor de texto preferido.
