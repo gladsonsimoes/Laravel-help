@@ -5,7 +5,7 @@
 ---
 Possiveis soluções de problemas:
 
-- Habilitar o extension fileinfo do PHP para que a istalação da dependências ocorram bem, <a href="arquives/configure-php-composer.md"> Clique aqui e veja como habilitar </a>
+- Habilitar o extension fileinfo do PHP caso de problema ao instalar as configurações do composer.json:  <a href="arquives/configure-php-composer.md"> Clique aqui e veja como habilitar </a>
 
 - Instalar todas biblioteca php para instalação do composer 
 
