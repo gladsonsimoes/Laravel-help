@@ -6,7 +6,7 @@ Quando você precisa baixar o seu projeto laravel novamente do github você tem 
    
 4. ainda no prompt de comando digite: `composer install` , após isso o diretório vendor vai ser criado dentro do projeto
 
-5. no projeto criar um arquivo `.env` 
+5. no projeto você tem criar um arquivo `.env` 
 
 6. copiar as informações do  `.env.example` no `.env`
 
