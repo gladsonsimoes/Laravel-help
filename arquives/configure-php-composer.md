@@ -3,11 +3,13 @@ Atenção!!! faça depois da instalação do composer!
 
 ### Habilitar a extensão fileinfo no arquivo php.ini:
 
-#### 1. Abra o arquivo <b> php.ini </b> localizado:
+<b> 1. Abra o arquivo </b> `php.ini` <b> localizado </b>:
 -   Windows: `C:/php/php.ini` 
 -   Linux: `etc/php/<versão do php>/cli/php.ini`
-#### 2. Procure pela linha que contém `;extension=fileinfo` 
-#### 3. Remova o ponto e vírgula para descomentar a linha, ficando apenas `extension=fileinfo` .
+  
+<b> 2. Procure pela linha que contém </b> `;extension=fileinfo` 
+
+<b> 3. Remova o ponto e vírgula para descomentar a linha, ficando apenas </b> `extension=fileinfo` .
 #### 4. Salve as alterações e reinicie o servidor PHP.
 
 ---
