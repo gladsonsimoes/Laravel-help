@@ -10,7 +10,13 @@ Quando você precisa baixar o seu projeto laravel novamente do github você tem 
 
 6. copiar as informações do  <b> .env.example </b> no <b> .env </b>
 
-7. dentro do diretorio  digite comando: <b> php artisan key:generate </b>;
+7. dentro do diretorio  digite comando:
+~~~
+php artisan key:generate
+~~~
 após isso será gerado a senha para <b> .env </b> no <b> APP_KEY </b>
 
-8. depois digite outro comando para limpar o cache: <b> php artisan config:cache </b>
+9. depois digite outro comando para limpar o cache:
+~~~
+php artisan config:cache
+~~~
