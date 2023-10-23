@@ -14,7 +14,7 @@ Quando você precisa baixar o seu projeto laravel novamente do github você tem 
 ~~~
 php artisan key:generate
 ~~~
-após isso será gerado a senha para <b> .env </b> no <b> APP_KEY </b>
+após isso será gerado a senha para `.env` no `APP_KEY`
 
 9. depois digite outro comando para limpar o cache:
 ~~~
