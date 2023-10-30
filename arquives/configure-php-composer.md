@@ -1,4 +1,4 @@
-## habilitando o extension fileinfo do php.ini , para instalar as dependências do php :
+## habilitando o extension fileinfo do php.ini caso de errado para instalar as dependências do php :
 Atenção!!! faça depois da instalação do composer!
 
 ### Habilitar a extensão fileinfo no arquivo php.ini:
