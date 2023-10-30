@@ -11,7 +11,4 @@ composer create-project laravel/laravel example-app
 
 #### Caso de problema habilite o extension fileinfo do php : <a href="configure-php-composer.md"> habilitar extension fileinfo </a>
 
----
-
-e uma sugestão : tenha conhecimento das pastas do laravel (procure na internet o que é cada uma pasta)
 
